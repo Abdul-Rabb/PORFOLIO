@@ -1,0 +1,38 @@
+.nav-style{
+    font-family: "Kode Mono", monospace;
+    font-size: 40px;
+
+}
+.navul-padding li{
+    padding: 0px 20px;
+}
+
+.main-bannar{
+    width: 90%;
+    margin: 10% auto;
+}
+.ban-img img{
+    width: 80%;
+    object-fit: fill;
+
+}
+.ban-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}   
+.github{
+    background-color: black;
+}
+.linkdin{
+    background-color: black ;
+}
+.links i{
+    border-radius: 5em;
+    color: #fff;
+    font-size: 70px;
+    
+
+
+
+}
